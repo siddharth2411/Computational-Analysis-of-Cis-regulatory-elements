@@ -1,0 +1,7 @@
+
+Sequence: CGTCA
+Total length of chr 1= 13063874
+Total length of chr 2= 8514664
+Total length of chr 3= 9866936
+Total length of chr 4= 7802390
+Total length of chr 5= 11625965

@@ -1,0 +1,7 @@
+
+Genome data:
+Chromosome: 1 'AAAG' FREQUENCY: 21389
+Chromosome: 2 'AAAG' FREQUENCY: 17217
+Chromosome: 3 'AAAG' FREQUENCY: 20209
+Chromosome: 4 'AAAG' FREQUENCY: 16042
+Chromosome: 5 'AAAG' FREQUENCY: 23736

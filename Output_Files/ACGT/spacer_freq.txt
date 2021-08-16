@@ -1,0 +1,40 @@
+Chr 1 data:
+
+Chr 1 data:
+
+Chr 1 data:
+
+Chr 1 data:
+
+Chr 1 data:
+
+SPACE: 1 frequency: 314
+SPACE: 2 frequency: 475
+SPACE: 3 frequency: 322
+SPACE: 4 frequency: 373
+SPACE: 5 frequency: 292
+SPACE: 6 frequency: 281
+SPACE: 7 frequency: 340
+SPACE: 8 frequency: 354
+SPACE: 9 frequency: 274
+SPACE: 10 frequency: 271
+SPACE: 11 frequency: 306
+SPACE: 12 frequency: 268
+SPACE: 13 frequency: 278
+SPACE: 14 frequency: 363
+SPACE: 15 frequency: 309
+SPACE: 16 frequency: 373
+SPACE: 17 frequency: 376
+SPACE: 18 frequency: 337
+SPACE: 19 frequency: 264
+SPACE: 20 frequency: 347
+SPACE: 21 frequency: 291
+SPACE: 22 frequency: 318
+SPACE: 23 frequency: 296
+SPACE: 24 frequency: 619
+SPACE: 25 frequency: 304
+SPACE: 26 frequency: 329
+SPACE: 27 frequency: 235
+SPACE: 28 frequency: 306
+SPACE: 29 frequency: 278
+SPACE: 30 frequency: 258

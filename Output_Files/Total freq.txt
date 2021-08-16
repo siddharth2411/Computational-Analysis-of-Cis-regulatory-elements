@@ -1,0 +1,15 @@
+
+Genome data:
+
+Genome data:
+Chromosome: 1 'CGTCA' FREQUENCY: 4330
+
+Chromosome: 2 'CGTCA' FREQUENCY: 3497
+
+Chromosome: 3 'CGTCA' FREQUENCY: 4282
+
+Chromosome: 4 'CGTCA' FREQUENCY: 3326
+
+Chromosome: 5 'CGTCA' FREQUENCY: 4734
+
+TOTAL FREQUENCY: 20169
